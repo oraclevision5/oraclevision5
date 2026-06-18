@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋</h1>
 
 <p align="center">
-  Senior Software Engineer • Backend/Platform • Distributed Systems • Cloud
+  Senior Software Engineer | Full Stack • Distributed Systems • Cloud
 </p>
 
 ## ✨ What I do
